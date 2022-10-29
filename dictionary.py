@@ -1,4 +1,4 @@
-#creat a dictionary to store information about about a person
+#creat a dictionary to store information about a person
 person={
     "name":"daniel",
     "age":22,
